@@ -1,0 +1,22 @@
+# Build and release artifacts
+*.exe
+*.dll
+*.pdb
+*.zip
+/SHA256.txt
+/测试输出.txt
+/artifacts/
+/release/
+/bin/
+/obj/
+
+# Local application and editor data
+recovery-*.xml
+position.xml
+errors.log
+*.tmp
+/.vs/
+/.vscode/
+*.user
+Thumbs.db
+Desktop.ini
